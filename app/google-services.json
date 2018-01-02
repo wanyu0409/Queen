@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "24901674624",
+    "firebase_url": "https://queen-50c5c.firebaseio.com",
+    "project_id": "queen-50c5c",
+    "storage_bucket": "queen-50c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24901674624:android:1395bc1a00bb3863",
+        "android_client_info": {
+          "package_name": "wanyu.com.queen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24901674624-leqdjdo6v7mri6k4qq05u6jif51fs5vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wanyu.com.queen",
+            "certificate_hash": "5f0313e1d6c8f42c86b021fa2de4ba76c28a57bc"
+          }
+        },
+        {
+          "client_id": "24901674624-8pnsuj8e9j2ap3fvjh0iakojcs313u7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAezXKPeYlndnxnQ8aAZIfk9FoV5z1KIi0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24901674624-8pnsuj8e9j2ap3fvjh0iakojcs313u7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
